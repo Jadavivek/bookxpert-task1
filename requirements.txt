@@ -1,0 +1,7 @@
+Python 3.8+
+
+faiss-cpu
+
+sentence-transformers
+
+fastapi, uvicorn
